@@ -1,5 +1,5 @@
 # colorsaur
- The class implements very simple gradients using the RGB space and some simple linear algebra.For the moment only a Color Gradient between two color is developed
+ The class implements very simple gradients using the RGB space and some simple linear algebra.
 
  # basic math
  A color can be expressed as a vector in a 3D $(r,g,b)$ space where $r,g,b \in [0,255]$ are integer numbers.
